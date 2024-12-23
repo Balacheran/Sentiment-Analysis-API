@@ -85,7 +85,7 @@ curl -X GET http://127.0.0.1:8000/ -H "X-API-KEY: f01ba15c3bb5e9378364d66a5e3d17
 **Response**:
 ```json
 {
-    "Hello": "World"
+    "Sentiment-Analysis-API"
 }
 ```
 
@@ -124,7 +124,7 @@ curl -X GET http://127.0.0.1:8000/ -H "X-API-KEY: f01ba15c3bb5e9378364d66a5e3d17
 **Response**:
 ```json
 {
-    "Hello": "World"
+    "Sentiment-Analysis-API"
 }
 ```
 
